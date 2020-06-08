@@ -1,2 +1,2 @@
-# JetBrains-Python!
+# JetBrains-Python
 JetBrains Academy 
